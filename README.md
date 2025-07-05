@@ -48,8 +48,8 @@ Combined range and fast charging power to rank models suitable for road trips
 
 - Python
 - Pandas
-- Matplotlib
-- Seaborn
+- Excel
+- Jupyter
 
 ---
 
